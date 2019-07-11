@@ -1,8 +1,8 @@
 # Deep_Learning_Project_4
 
-11785 Project 4 Part 1: training.ipynb (language models)
+11785 Project 4 Part 1: Language Model training.ipynb (HW4P1.ipynb)
 
-11785 Project 4 Part 2: Attention-based End-to-End Speech-to-Text Deep Neural Network
+11785 Project 4 Part 2: Attention-based End-to-End Speech-to-Text Deep Neural Network (*.py)
 
 Dataset: WSJ voices
 
